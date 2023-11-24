@@ -28,8 +28,7 @@ If you want to set all your isodose lines to a preset, then you could use Alt-l.
 You have to get first the prescription values as described before (use best Alt-b for this). Then go in "Plan Settings" in the first edit field of column "Dose [%]" and press Alt-l. That's it. All values are set as you decided in the script.
 
 ### Demo
-Here is a short demo with the results
-<video src='https://github.com/ZapAddons/AutoHotKey-Scripts/Isodoselines-Demo.mp4' width=320/>
+You could find a short demo video how it works [here](https://github.com/ZapAddons/AutoHotKey-Scripts/Isodoselines-Demo.mp4).
 
 ### Problems
 Sometimes it could be, that the App is a little slow when pressing Alt-c. If this is the case, try it again.
